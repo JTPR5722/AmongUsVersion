@@ -15,54 +15,50 @@ https://github.com/TheOtherRolesAU/TheOtherRoles/releases
 ![TOR_logo](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/TOR_logo.png)
 
 https://github.com/EnhancedNetwork/TownofHost-Enhanced/releases
-![TOHE-Background-Old](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TOHE-Background-Old.jpg)
+![TOHE-Background-Old](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/TOHE-Background-Old.jpg)
 
 https://github.com/Gurge44/EndlessHostRoles/releases
-![EHR-Icon](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/EHR-Icon.png)
+![EHR-Icon](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/EHR-Icon.png)
 
 https://github.com/eDonnes124/Town-Of-Us-R?tab=readme-ov-file#releases
-![TOU-logo](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TOU-logo.png)
+![TOU_Logo](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/TOU-logo.png)
 
 https://github.com/KiraYamato94/LasMonjas/releases
-![LasMonjas_banner](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/LasMonjas_banner.png)
+![LasMonjas_banner](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/LasMonjas_banner.png)
 
 https://github.com/yukieiji/ExtremeRoles/releases
-![ExtremeRoles_banner](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/ExtremeRoles_banner.png)
-
+![ExtremeRoles_banner](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/ExtremeRoles_banner.png)
 
 https://github.com/SuperNewRoles/SuperNewRoles/releases
-![SNRImage](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/SNRImage.png)
-
+![SNRImage](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/SNRImage.png)
 https://github.com/Mr-Fluuff/StellarRolesAU/releases
-![Stellar Roles](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/Stellar%20Roles.png)
+![Stellar Roles](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/Stellar%20Roles.png)
 
 https://github.com/Rabek009/MoreGamemodes/releases
-![more gamemodes](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/more%20gamemodes.png)
+![more gamemodes](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/more%20gamemodes.png)
 
 https://github.com/XtremeWave/TownOfNewEpic_Xtreme/releases
-![Uploading XW-TONEX.png…](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/XW-TONEX.png)
-
 
 https://github.com/SpexGH/TheOtherUs/releases/
-![TOU_Logo](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TOU_Logo.png)
+![TOU-logo](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/TOU_Logo.png)
 
 https://github.com/tukasa0001/TownOfHost/releases
-![TownOfHost-Title](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TownOfHost-Title.png)
+![TownOfHost-Title](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/TownOfHost-Title.png)
 
 https://github.com/Zeo666/AllTheRoles/releases/
-<img width="891" alt="ATR-logo" src="https://github.com/JTPR5722/AmongUsVersion/blob/main/image/ATR-logo.png">
+<img width="891" alt="ATR-logo" src="https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/ATR-logo.png">
 
 https://store.steampowered.com/app/2160150/AmongUs_Challenger/
-![Challenger](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/Challenger.png)
+![Challenger](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/Challenger.png)
 
 https://skeld.net/                                                                    
-![SKELD NET](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/SKELD.NET.png)
+![SKELD NET](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/SKELD.NET.png)
 
 https://github.com/Dolly1016/Nebula/releases                        
-![Nebula](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/Nebula.png)
+![Nebula](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/Nebula.png)
 
 https://github.com/AlchlcDvl/TownOfUsReworked/releases
-![Reworked](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/Reworked.png)
+![Reworked](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/Reworked.png)
 
 ---------------------------------------------------------------------
 # Not released yet :
@@ -81,10 +77,10 @@ https://github.com/ImaMapleTree/TOURHatAddon/releases
 # Maps:
 
 https://github.com/SubmergedAmongUs/Submerged/releases                 
-![Icon](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/Icon.png)
+![Icon](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/Icon.png)
 
 https://levelimposter.net/                                           
-![LevelIpostor](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/LevelIpostor.png)
+![LevelIpostor](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/LevelIpostor.png)
 
 --------------------------------------------------------------------- 
 
@@ -102,7 +98,8 @@ https://github.com/DigiWorm0/LevelImposter-Editor
 ![LevelIpostor](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/LevelIpostor.png)
 https://github.com/MyDragonBreath/AmongUs.MultiClientInstancing 
 
-https://gamebanana.com/games/7621     
+https://gamebanan![XW-TONEX](https://github.com/user-attachments/assets/df964db5-f3ee-4b72-b449-277dd28cbb15)
+a.com/games/7621     
 
 https://among-us.fandom.com/wiki/Mods                                                                                                                                 
 
