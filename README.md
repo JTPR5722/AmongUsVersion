@@ -68,6 +68,7 @@ If you want to download other versions, please go to depotdownloader, but there 
 # Not released yet :
 
 ## [Lotus_Continued](https://github.com/Lotus-AU/LotusContinued/releases)
+![Project_Lotus](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/Project_Lotus.png)
 
 ## https://github.com/Lotus-AU/VentFramework-Continued
 
