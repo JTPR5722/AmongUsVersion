@@ -32,7 +32,7 @@ If you want to download other versions, please go to depotdownloader, but there 
 ## [Super New Rules](https://github.com/SuperNewRoles/SuperNewRoles/releases)
 ![SNRImage](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/SNRImage.png)
 
-## [Stellarrules](https://github.com/Mr-Fluuff/StellarRolesAU/releases)
+## [Stellar Rules](https://github.com/Mr-Fluuff/StellarRolesAU/releases)
 ![Stellar Roles](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/Stellar%20Roles.png)
 
 ## [More Gamemodes](https://github.com/Rabek009/MoreGamemodes/releases)
