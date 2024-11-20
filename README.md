@@ -92,9 +92,9 @@ If you want to download other versions, please go to depotdownloader, but there 
 
 ## [Crewlink](https://github.com/ottomated/CrewLink)
 
-## https://github.com/sawa90/AmongUsReplayInWindow
+## [Among Us Replay In Window](https://github.com/sawa90/AmongUsReplayInWindow)
 
-## https://github.com/MatuxGG/ModManager
+## [Mod Manager](https://github.com/MatuxGG/ModManager)
 
 ## [Level Imposter](https://github.com/DigiWorm0/LevelImposter-Editor)
 ![LevelIpostor](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/LevelIpostor.png)
