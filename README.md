@@ -38,6 +38,7 @@ https://github.com/Rabek009/MoreGamemodes/releases
 ![more gamemodes](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/more%20gamemodes.png)
 
 https://github.com/XtremeWave/TownOfNewEpic_Xtreme/releases
+![XW-TONEX](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/XW-TONEX.png)
 
 https://github.com/SpexGH/TheOtherUs/releases/
 ![TOU-logo](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/TOU_Logo.png)
@@ -98,8 +99,7 @@ https://github.com/DigiWorm0/LevelImposter-Editor
 ![LevelIpostor](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/LevelIpostor.png)
 https://github.com/MyDragonBreath/AmongUs.MultiClientInstancing 
 
-https://gamebanan![XW-TONEX](https://github.com/user-attachments/assets/df964db5-f3ee-4b72-b449-277dd28cbb15)
-a.com/games/7621     
+
 
 https://among-us.fandom.com/wiki/Mods                                                                                                                                 
 
