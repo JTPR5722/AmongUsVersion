@@ -4,7 +4,7 @@ If you want to download mods, you can use these.
 Version V2024.6.18 or above.(on [Steam](https://store.steampowered.com/?l=tchinese))
 If you want to download other versions, please go to depotdownloader, but there are very complex.
 
-1.Download the archives we release(Among Us Vxxxx.xx.xx.zip).                                                                                                               
+1.Download the archives we [release](https://github.com/JTPR5722/AmongUsVersion/releases)(Among Us Vxxxx.xx.xx.zip).                                                                                                               
 2.Then find your [Among Us file](https://github.com/JTPR5722/AmongUsVersion/tree/AmongUs) original folder, copy it, and rename it to an easy-to-understand name, like "Among Us V2024.6.18".                                              
 3.Delete the original Among Us_Data and GameAssembly and paste the downloaded ones.                                                                                           
 4.Done!
