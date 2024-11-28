@@ -78,6 +78,8 @@ If you want to download other versions, please go to depotdownloader, but there 
 
 ## https://github.com/ImaMapleTree/TOURHatAddon/releases 
 
+## The Better Rules
+
 ---------------------------------------------------------------------
 # Maps:
 
